@@ -1,7 +1,10 @@
 [package]
-name = "Proof_of_Coffee"
+name = "coffee-chain-simulator"
 version = "0.1.0"
 edition = "2021"
+authors = ["Your Name <your.email@example.com>"]
+description = "A blockchain-based coffee brewing simulator"
 
 [dependencies]
-rand = "0.8"
+rand = "0.8.5"
+colored = "2.0.4"
